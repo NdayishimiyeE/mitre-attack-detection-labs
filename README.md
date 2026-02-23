@@ -1,4 +1,4 @@
-# MITRE ATT&CK Lab Portfolio
+# MITRE ATT&CK Lab 
 
 ## Introduction
 
